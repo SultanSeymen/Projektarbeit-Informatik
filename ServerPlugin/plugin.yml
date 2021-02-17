@@ -1,0 +1,68 @@
+{
+  "api-version": "1.16", 
+  "commands": {
+    "spawn": {
+      "description": "Teleportiert dich zum Spawn"
+    }, 
+    "givemoney": {
+      "description": "Dieser Kommand schenkt dem genannten Spieler Geld!"
+    }, 
+    "rang": {
+      "description": "Dieser Kommand verleiht dir Raenge!"
+    }, 
+    "quizAntwort": {
+      "description": "Dieser Kommand sollte genutzt werden, um die Frage zu beantworten!"
+    }, 
+    "informationeneintragen": {
+      "description": "Dieser Kommand pflegt deine Informationen ueber dich ein!"
+    }, 
+    "money": {
+      "description": "Dieser Kommand zeigt dir wie viel Geld du hast!"
+    }, 
+    "heal": {
+      "description": "Dieses Kommando heilt dich!"
+    }, 
+    "setspawn": {
+      "description": "Setze den Spawnpunkt"
+    }, 
+    "kit": {
+      "description": "Dieser Kommand gibt dir dein Kit!"
+    },  
+    "notiz": {
+      "description": "Mit diesem Kommand kannst du Notizen erstellen!"
+    }, 
+    "truhe": {
+      "description": "Dieser Kommand oeffnet das Kit-Inventar!"
+    }, 
+    "fly": {
+      "description": "Dieser Kommand laesst dich fliegen!"
+    }, 
+    "party": {
+      "description": "Party"
+    }, 
+    "info": {
+      "description": "Dieser Kommand gibt Informationen ueber andere Spieler aus!"
+    }, 
+    "addmoney": {
+      "description": "Dieser Kommand gibt dem genannten Spieler Geld aus der Bank!"
+    }, 
+    "gm3": {
+      "description": "Dieser Kommand setzt dich in den Gamemode Spectat!"
+    }, 
+    "gm2": {
+      "description": "Dieser Kommand setzt dich in den Gamemode Adventure!"
+    }, 
+    "gm1": {
+      "description": "Dieser Kommand setzt dich in den Gamemode Creative!"
+    }, 
+    "gm0": {
+      "description": "Dieser Kommand setzt dich in den Gamemode Survival!"
+    }, 
+    "quizFrage": {
+      "description": "Dieser Kommand stellt die Quiz Frage!"
+    }
+  }, 
+  "main": "kaya.seymen.projektkurs.main.Main", 
+  "version": 1, 
+  "name": "Tutorial"
+}
